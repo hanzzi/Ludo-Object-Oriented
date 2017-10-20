@@ -14,8 +14,5 @@ namespace Ludo_Object_Oriented
         {
             DieSides = sides;
         }
-
-
-
     }
 }

@@ -17,7 +17,7 @@ namespace Ludo_Object_Oriented
 
         private void InitializeGame()
         {
-            
+
         }
 
         private void NextTurn()
